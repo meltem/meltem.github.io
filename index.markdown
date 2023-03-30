@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Hyman](/assets/img/cyborg.jpeg)
