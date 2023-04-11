@@ -27,13 +27,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  meltem
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 # Asset settings
 assets:
-  css_dir: assets/css
-  js_dir: assets/js
   img_dir: assets/img
 
 google_analytics: G-9ZLQY0RGJZ
