@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Turning test and beyond!"
+title:  "Turing test and beyond!"
 date:   2023-03-27 22:50:14 -0700
 categories: ai, consciousness, tests 
 ---
