@@ -12,4 +12,4 @@ Currently, there are several techniques and tests proposed to assess an AI's lev
 
 Another approach is to use cognitive tests that assess an individual's level of consciousness and awareness, and then compare an AI's performance to these models to see how well it performs against human tasks.
 
-Today, we will look at such cognitive tests that are currently being used to benchmark AI.
+Today, we will look at such cognitive tests that are currently being used to benchmark AI and how current LLM models perform against them.
