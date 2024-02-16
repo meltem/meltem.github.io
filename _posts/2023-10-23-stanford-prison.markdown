@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Stanford Prison Experiment"
-date:   2023-05-03 22:50:14 -0700
+date:   2023-10-23 22:50:14 -0700
 categories: social-experiments, psychology, 1971
 ---
 

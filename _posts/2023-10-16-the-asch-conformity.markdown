@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Asch Conformity Experiments"
-date:   2023-05-03 22:50:14 -0700
+date:   2023-10-16 22:50:14 -0700
 categories: social-experiments, 1950
 ---
 
