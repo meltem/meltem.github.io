@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Attribution Theory"
-date:   2023-05-03 22:50:14 -0700
+date:   2024-02-19 22:50:14 -0700
 categories: social-psychology, psychology, 1958
 ---
 
